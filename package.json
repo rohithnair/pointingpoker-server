@@ -1,0 +1,13 @@
+{
+  "name": "pointing-poker-server",
+  "version": "1.0.0",
+  "description": "Pointing poker websockets server",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.2.0"
+  }
+}
